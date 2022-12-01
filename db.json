@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "details": "Russian gun",
+      "price": "200",
+      "quantity": "AK-47",
+      "category": "1",
+      "sale": "20%",
+      "urlImg": "https://cdn.britannica.com/70/123170-050-D7AAF458/AK-47.jpg",
+      "id": 1
+    },
+    {
+      "details": "M16A4",
+      "price": "300",
+      "quantity": "M16A4",
+      "category": "2",
+      "sale": "No sales",
+      "urlImg": "https://m.media-amazon.com/images/I/51Q7jbU8pTL._SL1389_.jpg",
+      "id": 2
+    },
+    {
+      "details": "AWP",
+      "price": "500",
+      "quantity": "AWP",
+      "category": "3",
+      "sale": "No sales",
+      "urlImg": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBwgVFhUXGB8bGBgYFyEaHxoiGiAdIh4gJR8kHygmJCInJR8nIjIjKSkxOjAuHyAzODM4NyotMysBCgoKDg0OGhAQGjIlHyYrLTE2MDIuLS8tMC0tLS0tKystLTArMi0tLi0vLSstKy03Ny0vNy03LS03Ky0tLS0vLf/AABEIAL0BCwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUCAQj/xABGEAACAQMCAwQFBwgHCQAAAAAAAQIDBBEFIQYSMQcTQVEiMmFxkSMlgaGx0tMUFRdCYoKVohYzUsPR8PEkRVVyg5KTo+L/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACkRAQACAQIEBAcBAAAAAAAAAAABAhEDEgQhMUFh0eHwEzJRkaGxwRT/2gAMAwEAAhEDEQA/ALxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMN5cQtLSdzU6Qi5P3RWWZjT1qhK60etbwWXOlOK/ei0BAa/atK3oRq1uHprKTa72O2dsZ5Tdsu1fQKufyyhXo42blT51v5d25P6isdRvru+sO7tdCu8tLD7icl62f7O55sODOMNUbdHQXCMmnzVWqWPfFvn/lMItdK7Zca8NRsJX0tXpqEVvnOfdy45s+SxlvY4+rdo2hVuHqlxoOrwlXcZdzBxak5JbehJRaXm3sluRDUuBOIdO4RrVbq+oR7uLqtQ55v5P0sJtR3eMdNjicN8A67r2iLVLG/pKSqSi6dROPNjCl6S5uXbyiXpNp+aCcdkz4I7SqFSjVhxfqUadRScqeYcseTbpKOU5Z8OvTqSbT+0LhjULaVxb6i8ReHzU5p+fRxz/llafoo4lqync3t9b0Ywg3HlcqrfjvtBeHX6j52c8KaxrmjVbylqkIPvORxnScukYvrGcdvTLWmexGO6y12g6BPDoTrSTzuqE10WX60V4GnLtP0BRUo0rh5WV8ljpnza8iPVeAeLoOEKF5ZtRcm25VIN5jjpyz9/U5Muy7jLkSjf2eUmt51PFvx7r2lM3z78fQ5Lns7iF3aQuaSaU4qSzs8SWd/aZjT0a2rWekUbW5knOFOMZNdG1FJ4yltn2G4aRnHNAACQAAAAAAABF+0DiLU+G9Mhc6TpbrylU5ZJRlLlXK3nEU31WCuNV7WOK6NpKf5lVFLlxUnQqpLPX1sL9nfzLvPNSEKkHCpFNPqmspgU1w12paxfUG6jjWl4xp2tSfJ1xlwl49d/cdddoWtvHzZP2/7BcfeLKtrS2tIuNrbwgn1UYqOfgZiu3xW3eCrP0hcQ7Y0up7fm+4/EPH6QeJtvmmp7fm24/FLWA2oyqj9IHFTx80VPb821/xTz/T/izb5mq+35tr/ilsnD4g4t0bh24jR1e5cHKLkvRctl7k/wDKYwhAP6fcYeGi1uv/AA2t+KeJ8e8aZ9DQrj+G1fxCd0OOuGK9LvFrFNbZxLMH8Gkenxzwsv8AflH/ALicCAPjzjjw0C5/h1X8Q8vjvjrw4fuv4dU++TKn2m8IVKLrLVcKPVunP2/s+w90u0rhCpSVT88Rimk1zQmuqz/ZJEIr9o2vWs4Ubu5jTqSSbpytJ80c+D9P1vNdUbNLjfiO4SnQu4OLWU/ydL6nUyQLivXtLvuMKuoWtaNROXoVItbrdr0ZR58rOOnXpk6um8R89/b6dO0qOSlGnFRfK33i5Y82yzFdfDHlg5r2vHR11ro9/wCpdHibiuosrUaS/wCjH758jxDxfJ4ep0voowf2zRJ7bQrujnvLNPyScf8AFPHs+s3I0NUpf1Vh8KkUvgmvtZjv4j6fppNeGjpz+8f1D4a3xfNrOsQS8cUKbx/7NzftKfFWst06fF0qTju+W0pJNP2809/pXuJDplPWLKzjRr0atVpetOdPL97WM/BG9C8u4R+XsnDyy+ZfS45wvayd+tHX9MLxSfliPv5q51jgCrUquWs8UVpcyzKUu85W28tYVXlW+/Kkl5LY0bfs3tYw5LXiKcd/V+Vi/h3pZl1qdVW7q1baMoPbZtr7GnuQyjTnStXJ83NnOOu3k/8AH2+RSNXVmev4hrp6NLVzPVy12aKacZ6/N+DTlUf96Y63ZjR0+27xao4x6+tOCf088sfBnZt72Kko3CeX18l9G/1L6TUvr2+ttQhK0o1K7qvkhThhp8qlKTjzcqW3WTeNlsRv1ptjKs6VYjMtfSKN5o1s7ajq0nHOUlWq7LC8cLy+BN+FuIrRaNGnqF23Ui5c2eabw5Scd8PwwRK+v9cpzgq3Cl0nOXJHM6O7w3jaXlF9Tm3Gp3VxCcKtjKk6cu7qwn68W1nqnjdPZrzRas6tLbpj8s5rSekrVXEWlPZXX8kvunx8R6Sut3/JL7pXejadrGoWH5PodpTcINLvK1RpNpJ8uVGUnjO+2PDO22rrlhxHoFu7vVNNpukvWqUZ86h7ZJwjJL9rlwvFo2jV1ZjO3krNKR3WNf8AFumW1nOtbydWUYtxpxi05PwSbSSz5tkLfaNxJN80OG4RXhzVM/XlEVlOhqtOVCU5RSSez5W90/WWP9Dt2lrTqQ+Vpp423KzxFoNkN9doXE8vV0Kj/wCT/wCjxX7QuLKFCVxV4dpxpwTlKbmmkl47VM/Uat3pdtfqKg8OMlLCk47xzjo90YIaNb3NnX01TcZ1eb0m3LDmt9m+n7KKf67e49T4cMlHtouWlT/MlOc/HFdwWPdySf1meXa7qMotw0GisLO9xJ/3SIBqnCFbRacr96hGootRaUHH1ts7yfjt9Jz+8fK8QXQ666kWjNZZzGH6no1FWoqrHo0n8T2aOhT73RKFTzpQfxijeNEAAAAAAAABgr2drc1FUuLaEmk0nKKbSljKTa2Tws+5GcAa1lp9lYUu6sbOnTjttCCittlsl4Gdwg+sV8D0ANNaVpyqqstPpcy6S7uOV9OD5X0jTLiDp3GnUZJ4ypU4tPGMZyvDCx7kboA1IaZp9Ok6MLGkotYcVCKTXljBpWHCvD+m3ivNP0WhTqJNKUKUYtZznGF7cZ8tjsAAAAAAA1q9jbV23Onu+ri3Fv3tNNlTa1oHFf51qO0t6/dSlNLFTPoOWYr1s4x4FxArNYlOVDqlxXpE2qVjXUcZTlQdTD3ysuLwumxZVtot9bxtdXo1qlWcFmdGXdxyqkMS5PRjiSbTSk8YTXimpcCIpGc45m6cYRu8udQuLyFaroVy4U5c0YRdusyw1mTdzulnKSS365IPxLZXtrrdWvqFFQ/Lc1IxT5u7dBU4cra25nHEtvHmWXjJbhC+1GEael299J47q4jn2qpGdPHxmn9AvXNZgrOJc3gPiChpNGWnapUUKcpc9Ko/VXN60JPweU2pPCecdUszPVdZ0mxsHWv7qnyNdMqTnn9VR/Wb6YRScatSMowrXNNTk38nCTm2/BRilzS92CQafw5r813ttojXipVHCm3+65OS/eSMdPUtjGF7VjLm6NpitbKFOtBJ8iys55em2fH3maldW1Kuqde8S81lrz8PLwOxp/DnEdzd9xdaY6SfWrOpTlFe6MZuT9iwveixdH0u30iyVtbL2yk+sn4t/Z7EkuiI+HN558oN2FUxuaLTrSrpLq3vsl9GEkZKWpWlWfe2tbnaWYz3w9srdZLflFSi4yXUrrQOEOINN0SnYVads3CPLlVprOPH+p8THW4WcZrmVo1EI4mv6dbg2c60VGo5U00m2s8ybSbSz5kEjUTz6D9Uufi/gfiPXNE/N1tStYenGWe/m8cufDuF9pAL/so4ysKbqQtoVdulKqm/hNQ+o14elq0mJjHPyUvOZXpwNVdfguyqy6u2pZ9/JHJ3DhcCWtex4MtLW7pOM4UIKUZbOLUVlP2o7p1qAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYrm3oXVLubqjGcX+rJKS29jMoA17aws7R5tbSnD/lgo/YjYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//9k=",
+      "id": 3
+    },
+    {
+      "details": "Desert Eagle",
+      "price": "150",
+      "quantity": "Desert Eagle",
+      "category": "4",
+      "sale": "5%",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/commons/1/15/TM_Desert_Eagle_CHROME_STAINLESS_GBB.jpg",
+      "id": 4
+    },
+    {
+      "details": "UZI",
+      "price": "200",
+      "quantity": "UZI",
+      "category": "5",
+      "sale": "No sales",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uzi_of_the_israeli_armed_forces.jpg/270px-Uzi_of_the_israeli_armed_forces.jpg",
+      "id": 5
+    },
+    {
+      "details": "UPM-45",
+      "price": "199",
+      "quantity": "UMP-45",
+      "category": "6",
+      "sale": "No sales",
+      "urlImg": "https://upload.wikimedia.org/wikipedia/commons/d/d6/HKUMP45.JPG",
+      "id": 6
+    }
+  ]
+}
